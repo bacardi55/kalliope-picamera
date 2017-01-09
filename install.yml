@@ -6,6 +6,6 @@
 
   tasks:
     - name: "Install pip dependencies"
-    pip:
-      name: picamera
-      version: 1.12
+      pip:
+        name: picamera
+        version: 1.12
