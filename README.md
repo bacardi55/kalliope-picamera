@@ -34,3 +34,9 @@ picture file will be named: "pi_" + datetime.datetime.now() + ".jpg"
           timer: 1
 ```
 
+
+
+
+
+* [Blog post about this neuron](https://bacardi55.org/en/blog/2017/kalliope-community-modules-and-picamera-neuron)
+* [My posts about kalliope](https://bacardi55.org/en/blog/2017/kalliope-neuron-google-calendar)
