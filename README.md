@@ -38,5 +38,5 @@ picture file will be named: "pi_" + datetime.datetime.now() + ".jpg"
 
 
 
-* [Blog post about this neuron](https://bacardi55.org/en/blog/2017/kalliope-community-modules-and-picamera-neuron)
-* [My posts about kalliope](http://bacardi55.org/en/term/kallioper)
+* [Blog post about this neuron](http://bacardi55.org/2016/12/26/kalliope-raspberrypi-camera-neuron.html)
+* [My posts about kalliope](http://bacardi55.org/kalliope.html)
