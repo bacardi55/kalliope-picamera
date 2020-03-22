@@ -9,3 +9,4 @@
       pip:
         name: picamera
         version: 1.12
+        executable: pip3
